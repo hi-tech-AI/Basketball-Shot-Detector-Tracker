@@ -4,6 +4,8 @@ Author: [Jose Satine](https://www.linkedin.com/in/jose-satine1711) (2023)
 Score Detection Accuracy: 95% <br>
 Shot Detection Accuracy: 97% <br>
 
+https://github.com/hi-tech-AI/Basketball-Shot-Detector-Tracker/blob/main/assets/254465853-469750e1-0f3c-4b07-9fc5-5387831742f7.mp4
+
 ## Introduction
 
 This project combines the power of Machine Learning and Computer Vision for the purpose of detecting and analyzing basketball shots in real-time! Built upon the latest YOLOv8 (You Only Look Once) machine learning model and the OpenCV library, the program can process video streams from various sources, such as live webcam feed or pre-recorded videos, providing a tool that can be used for an immersive playing experience and enhanced game analytics.
